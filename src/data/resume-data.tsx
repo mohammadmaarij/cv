@@ -28,8 +28,8 @@ export const RESUME_DATA = {
     "A beginner level Flutter Developer focused on building products with extra attention to detail",
   summary:
     "As a Flutter Enthusiast I possess expertise in designing and implementing user interfaces, integrating with backend services, and optimizing app performance.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/104904023?s=400&u=b0b34d9542eae623bb4d0cac33a0efce3b11933e&v=4",
- 
+  avatarUrl: "https://avatars.githubusercontent.com/u/104904023?s",
+  personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "maarijmohammad@gmail.com",
     tel: "+923165156617",
@@ -86,6 +86,7 @@ export const RESUME_DATA = {
   skills: [
     "Flutter",
     "Dart",
+
   ],
   projects: [
     {
