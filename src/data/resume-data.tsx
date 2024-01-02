@@ -21,42 +21,42 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Muhammad Maarij",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  initials: "MM",
+  location: "Islamabad, Pakistan, PKT",
+  locationLink: "https://www.google.com/maps/place/Islamabad",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "A beginner level Flutter Developer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "As a Flutter Enthusiast I possess expertise in designing and implementing user interfaces, integrating with backend services, and optimizing app performance.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "maarijmohammad@gmail.com",
+    tel: "+923165156617",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/mohammadmaarij",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/mohammad-maarij-a10823239/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://twitter.com/MaarijMohammad",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Capital University of Science and Technology",
+      degree: "Bachelor's Degree in Computer Science",
+      start: "2019",
+      end: "2023",
     },
   ],
   work: [
@@ -72,46 +72,20 @@ export const RESUME_DATA = {
         "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
     },
     {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
-      badges: ["Remote"],
-      title: "Lead Android Developer → Full Stack Developer",
+      company: "SoftwareFlare",
+      link: "https://softwareflare.com/",
+      badges: ["Onsite"],
+      title: "Intern Flutter Developer",
       logo: ClevertechLogo,
-      start: "2015",
-      end: "2021",
+      start: "July 2023",
+      end: "2023",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
-    },
-    {
-      company: "Jojo Mobile",
-      link: "https://bsgroup.eu/",
-      badges: [],
-      title: "Android Developer → Lead Android Developer",
-      logo: JojoMobileLogo,
-      start: "2012",
-      end: "2015",
-      description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
-    },
-    {
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
-      badges: [],
-      title: "C/C++ Developer",
-      logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description: "Creating and testing software for LTE base stations",
+        "As a Flutter Intern, I have invested time in mastering the fundamental concepts of flutter, including responsive user interfaces,firebase and Api integration. I have also completed projects that demonstrate my ability to design and implement clean and maintainable code.",
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Flutter",
+    "Dart",
   ],
   projects: [
     {
