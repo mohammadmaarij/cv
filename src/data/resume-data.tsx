@@ -90,13 +90,14 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Message App",
+      title: "Chat App",
       techStack: [
-        "Chat App",
+        "Message App",
         "Api's",
         "Flutter Packages",
         "Dart",
         "Firebase",
+        "Getx",
       ],
       description: "A platform to chat",
       logo: ConsultlyLogo,
@@ -106,76 +107,39 @@ export const RESUME_DATA = {
      // },
     },
     {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      title: "Tic Tac Toe",
+      techStack: ["Dart", "Firebase", "Flutter Packages",],
       description:
-        "Browser extension that records everything happening in a web application",
+        "Designed and implemented Tic-Tac-Toe application showcasing proficiency in software development, user interface design, and problem-solving skills.",
       logo: MonitoLogo,
-      link: {
+     /* link: {
         label: "monito.dev",
         href: "https://monito.dev/",
-      },
+      },*/
     },
     {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
+      title: "Twitter Redesign",
+      techStack: ["Side Project", "Dart", "Getx", "Front-end"],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "Executed a comprehensive redesign of the Twitter Mobile app using Dart and Getx state management, focusing on improving user interface (UI) and user experience (UX) while maintaining key functionalities",
       logo: JarockiMeLogo,
-      link: {
+     /* link: {
         label: "github.com",
         href: "https://jarocki.me/",
-      },
+      },*/
     },
     {
-      title: "Minimal",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "OpenArt NFT's Buy and Sell",
+      techStack: ["Side Project", "Dart", "Flutter Packages"],
       description:
-        "Minimalist calendars, habit trackers and planners generator",
+        "Developed a platform for buying and selling digital collectibles known as NFT’s (NonFungible Tokens). NFTs represent unique digital assets, such as artwork, music, or virtual items",
       logo: Minimal,
-      link: {
+     /* link: {
         label: "useminimal.com",
         href: "https://useminimal.com/",
-      },
+      },*/
     },
-    {
-      title: "Barepapers",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
-      description:
-        "Generates beautiful wallpapers using random shapes and gradients",
-      logo: BarepapersLogo,
-      link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
-      },
-    },
-    {
-      title: "Year progress",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description: "Tracks current year progress and displays a countdown",
-      logo: YearProgressLogo,
-      link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
-      },
-    },
-    {
-      title: "Parabol",
-      techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
-      logo: ParabolLogo,
-      link: {
-        label: "github.com",
-        href: "https://parabol.co/",
-      },
-    },
+    /*
     {
       title: "Evercast",
       techStack: [
@@ -248,5 +212,6 @@ export const RESUME_DATA = {
         "Video streaming mobile application for Canal Digital subscribers",
       logo: CDGOLogo,
     },
+    */
   ],
 } as const;
