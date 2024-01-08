@@ -152,16 +152,15 @@ export const RESUME_DATA = {
     },
     
     {
-      title: "Parabol",
+      title: "SadaPay",
       techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        "Side Project",
+        "Flutter",
+        "Dart",
+        "Packages",
       ],
       description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
+        "I redesigned the SadaPay app by using different packages in Flutter. My main goal was to make the app look and feel better for users, while still keeping all the important financial features the same",
       logo: ParabolLogo,
       link: {
         label: "github.com",
