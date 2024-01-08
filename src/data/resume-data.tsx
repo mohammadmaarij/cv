@@ -162,10 +162,10 @@ export const RESUME_DATA = {
       description:
         "I redesigned the SadaPay app by using different packages in Flutter. My main goal was to make the app look and feel better for users, while still keeping all the important financial features the same",
       logo: ParabolLogo,
-      link: {
+    /*  link: {
         label: "github.com",
         href: "https://parabol.co/",
-      },
+      },*/
     },
   
     
