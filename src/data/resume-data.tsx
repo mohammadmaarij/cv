@@ -139,7 +139,35 @@ export const RESUME_DATA = {
         href: "https://useminimal.com/",
       },*/
     },
-   
+    {
+      title: "ToDo App",
+      techStack: ["Side Project", "Dart"],
+      description:
+        "Developed a mobile application using Flutter and Dart programming language to create a user-friendly and efficient TODO list management tools",
+      logo: BarepapersLogo,
+      /*link: {
+        label: "barepapers.com",
+        href: "https://barepapers.com/",
+      },*/
+    },
+    
+    {
+      title: "Parabol",
+      techStack: [
+        "Full Stack Developer",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "GraphQL",
+      ],
+      description:
+        "The Agile meeting co-pilot that delivers better meetings with less effort",
+      logo: ParabolLogo,
+      link: {
+        label: "github.com",
+        href: "https://parabol.co/",
+      },
+    },
   
     
   ],
