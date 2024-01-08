@@ -61,17 +61,6 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
-      logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
-      description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
-    },
-    {
       company: "SoftwareFlare",
       link: "https://softwareflare.com/",
       badges: ["Onsite"],
@@ -79,6 +68,17 @@ export const RESUME_DATA = {
       logo: ClevertechLogo,
       start: "July 2023",
       end: "2023",
+      description:
+        "As a Flutter Intern, I have invested time in mastering the fundamental concepts of flutter, including responsive user interfaces,firebase and Api integration. I have also completed projects that demonstrate my ability to design and implement clean and maintainable code.",
+    },
+    {
+    company: "Cygnetic Software",
+      link: "https://softwareflare.com/",
+      badges: ["Remote"],
+      title: "Intern Flutter Developer",
+      logo: ClevertechLogo,
+      start: "June 2023",
+      end: "July 2023",
       description:
         "As a Flutter Intern, I have invested time in mastering the fundamental concepts of flutter, including responsive user interfaces,firebase and Api integration. I have also completed projects that demonstrate my ability to design and implement clean and maintainable code.",
     },
@@ -90,21 +90,20 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "Message App",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "Chat App",
+        "Api's",
+        "Flutter Packages",
+        "Dart",
+        "Firebase",
       ],
-      description: "A platform to build and grow your online business",
+      description: "A platform to chat",
       logo: ConsultlyLogo,
-      link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
-      },
+     // link: {
+       // label: "consultly.com",
+       // href: "https://consultly.com/",
+     // },
     },
     {
       title: "Monito",
