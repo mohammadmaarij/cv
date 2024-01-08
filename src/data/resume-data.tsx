@@ -139,7 +139,9 @@ export const RESUME_DATA = {
         href: "https://useminimal.com/",
       },*/
     },
-    /*
+    
+   
+
     {
       title: "Evercast",
       techStack: [
@@ -212,6 +214,5 @@ export const RESUME_DATA = {
         "Video streaming mobile application for Canal Digital subscribers",
       logo: CDGOLogo,
     },
-    */
   ],
 } as const;
