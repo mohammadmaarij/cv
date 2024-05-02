@@ -57,18 +57,18 @@ export const RESUME_DATA = {
       school: "Capital University of Science and Technology",
       degree: "Bachelor's Degree in Computer Science",
       start: "2019",
-      end: "20233",
+      end: "2023",
     },
   ],
   work: [
     {
-      company: "SoftwareFlare",
-      link: "https://softwareflare.com/",
+      company: "Techanion",
+      link: "https://techanion.com/",
       badges: ["Onsite"],
       title: "Intern Flutter Developer",
       logo: ClevertechLogo,
-      start: "July 2023",
-      end: "2023",
+      start: "Feb 2024",
+      end: "2024",
       description:
         "As a Flutter Intern, I have invested time in mastering the fundamental concepts of flutter, including responsive user interfaces,firebase and Api integration. I have also completed projects that demonstrate my ability to design and implement clean and maintainable code.",
     },
@@ -78,15 +78,20 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Intern Flutter Developer",
       logo: ClevertechLogo,
-      start: "June 2023",
-      end: "July 2023",
+      start: "Nov 2023",
+      end: "Jan 2024",
       description:
-        "As a Flutter Intern, I have invested time in mastering the fundamental concepts of flutter, including responsive user interfaces,firebase and Api integration. I have also completed projects that demonstrate my ability to design and implement clean and maintainable code.",
+        "I've really dived into the basics of Flutter, like making sure apps look good on any device, hooking them up to Firebase for storing data, and connecting them with APIs for extra features. I've also wrapped up projects where I've made sure the code is neat and tidy, easy for others to understand and maintain. I'm excited to bring these skills to the table in any professional setting.",
     },
   ],
   skills: [
     "Flutter",
     "Dart",
+    "Firebase",
+    "Flutter web"
+    "Api",
+    "Git",
+    
 
   ],
   projects: [
