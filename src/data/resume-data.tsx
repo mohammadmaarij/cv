@@ -88,7 +88,7 @@ export const RESUME_DATA = {
     "Flutter",
     "Dart",
     "Firebase",
-    "Flutter web",
+    "Flutterweb",
     "Api",
     "Git",
     
