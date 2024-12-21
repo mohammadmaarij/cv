@@ -20,7 +20,7 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Muhammad Maaaaaaarij",
+  name: "Muhammad Maarij",
   initials: "MM",
   location: "Islamabad, Pakistan, PKT",
   locationLink: "https://www.google.com/maps/place/Islamabad",
@@ -91,6 +91,11 @@ export const RESUME_DATA = {
     "Flutterweb",
     "Api",
     "Git",
+    "Back4app",
+    "FCM",
+    "Sqlite",
+    "ParseServer",
+    "ZegoCloud",
     
 
   ],
@@ -104,13 +109,28 @@ export const RESUME_DATA = {
         "Dart",
         "Firebase",
         "Getx",
+        "Firebase Tokens",
+        
       ],
-      description: "Developed a chat application, demonstrating expertise in real-time communication, user authentication, and database integration.",
+      description: 
+        "Developed a mobile application using Flutter and Dart to create an efficient and user-friendly chat app, inspired by WhatsApp. The app enables users to send messages and make calls, including both voice and video calls, powered by the ZEGOCLOUD SDK. Used Back4App (Parse Server) for the backend to handle data and enable real-time communication smoothly."
+        //"Developed a chat application, demonstrating expertise in real-time communication, user authentication, and database integration.",
       logo: ConsultlyLogo,
      // link: {
        // label: "consultly.com",
        // href: "https://consultly.com/",
      // },
+    },
+  {
+      title: "Upwork Project",
+      techStack: ["Dart", "Firebase", "Flutter Packages",],
+      description:
+        "Received a project on Upwork to implement a like/unlike feature in a chat app. I integrated the functionality so users could like or unlike messages. Additionally, when a user likes a message, a notification is sent to the person whose message was liked. A total like counter is also displayed for each message.",
+      logo: MonitoLogo,
+     /* link: {
+        label: "monito.dev",
+        href: "https://monito.dev/",
+      },*/
     },
     {
       title: "Tic Tac Toe",
@@ -127,7 +147,8 @@ export const RESUME_DATA = {
       title: "Twitter Redesign",
       techStack: ["Side Project", "Dart", "Getx", "Front-end"],
       description:
-        "Executed a comprehensive redesign of the Twitter Mobile app using Dart and Getx state management, focusing on improving user interface (UI) and user experience (UX) while maintaining key functionalities",
+        "Executed a comprehensive redesign of the Twitter mobile app using Dart and GetX state management, focusing on improving the user interface (UI) and user experience (UX) while maintaining key functionalities. Users canalso add tweets, retweet, comment on tweets, and reply to comments, implemented using Firebase and GetX for state management."
+       // "Executed a comprehensive redesign of the Twitter Mobile app using Dart and Getx state management, focusing on improving user interface (UI) and user experience (UX) while maintaining key functionalities",
       logo: JarockiMeLogo,
      /* link: {
         label: "github.com",
@@ -166,7 +187,7 @@ export const RESUME_DATA = {
         "Packages",
       ],
       description:
-        "I redesigned the SadaPay app by using different packages in Flutter. My main goal was to make the app look and feel better for users, while still keeping all the important financial features the same",
+        "Developed a SadaPay clone using SQLite as the backend, implementing full CRUD operations and incorporating functionality to upload and retrieve pictures from the database. The app was designed using the MVC (Model-View-Controller) architecture to ensure a clean and maintainable code structure.",
       logo: ParabolLogo,
      link: {
         label: "github.com",
