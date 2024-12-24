@@ -104,6 +104,7 @@ export const RESUME_DATA = {
         "Dart",
         "Firebase",
         "Getx",
+        "ZegoCloud",
       ],
       description: "Developed a mobile application using Flutter and Dart to create an efficient and user-friendly chat app, inspired by WhatsApp. The app enables users to send messages and make calls, including both voice and video calls, powered by the ZEGOCLOUD SDK. Used Back4App (Parse Server) for the backend to handle data and enable real-time communication smoothly.",
       logo: ConsultlyLogo,
@@ -146,10 +147,10 @@ export const RESUME_DATA = {
       },*/
     },
     {
-      title: "ToDo App",
-      techStack: ["Side Project", "Dart"],
+      title: "Upwork Project",
+      techStack: ["MVC", "Dart","Getx"],
       description:
-        "Developed a mobile application using Flutter and Dart programming language to create a user-friendly and efficient TODO list management tools",
+        "Received a project on Upwork to implement a like/unlike feature in a chat app. I integrated the functionality so users could like or unlike messages. Additionally, when a user likes a message, a notification is sent to the person whose message was liked. A total like counter is also displayed for each message.",
       logo: BarepapersLogo,
       /*link: {
         label: "barepapers.com",
@@ -166,7 +167,7 @@ export const RESUME_DATA = {
         "Packages",
       ],
       description:
-        "I redesigned the SadaPay app by using different packages in Flutter. My main goal was to make the app look and feel better for users, while still keeping all the important financial features the same",
+        "Developed a SadaPay clone using SQLite as the backend, implementing full CRUD operations and incorporating functionality to upload and retrieve pictures from the database. The app was designed using the MVC (Model-View-Controller) architecture to ensure a clean and maintainable code structure.",
       logo: ParabolLogo,
      link: {
         label: "github.com",
