@@ -105,7 +105,7 @@ export const RESUME_DATA = {
         "Firebase",
         "Getx",
       ],
-      description: "Developed a chat application, demonstrating expertise in real-time communication, user authentication, and database integration.",
+      description: "Developed a mobile application using Flutter and Dart to create an efficient and user-friendly chat app, inspired by WhatsApp. The app enables users to send messages and make calls, including both voice and video calls, powered by the ZEGOCLOUD SDK. Used Back4App (Parse Server) for the backend to handle data and enable real-time communication smoothly.",
       logo: ConsultlyLogo,
      // link: {
        // label: "consultly.com",
