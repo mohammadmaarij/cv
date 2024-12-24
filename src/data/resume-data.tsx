@@ -67,8 +67,8 @@ export const RESUME_DATA = {
       badges: ["Onsite"],
       title: "Intern Flutter Developer",
       logo: ClevertechLogo,
-      start: "Feb 2024",
-      end: "2024",
+      start: "June 2024",
+      end: "Sep 2024",
       description:
         "As a Flutter Intern, I have invested time in mastering the fundamental concepts of flutter, including responsive user interfaces,firebase and Api integration. I have also completed projects that demonstrate my ability to design and implement clean and maintainable code.",
     },
@@ -78,8 +78,8 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Intern Flutter Developer",
       logo: ClevertechLogo,
-      start: "Nov 2023",
-      end: "Jan 2024",
+      start: "Oct 2023",
+      end: "Present",
       description:
         "I've really dived into the basics of Flutter, like making sure apps look good on any device, hooking them up to Firebase for storing data, and connecting them with APIs for extra features. I've also wrapped up projects where I've made sure the code is neat and tidy, easy for others to understand and maintain. I'm excited to bring these skills to the table in any professional setting.",
     },
@@ -91,6 +91,12 @@ export const RESUME_DATA = {
     "Flutterweb",
     "Api",
     "Git",
+    "ZegoCloud",
+    "FCM",
+    "Back4app",
+    "SupaBase",
+    "Getx",
+    "MVC",
     
 
   ],
@@ -102,9 +108,10 @@ export const RESUME_DATA = {
         "Api's",
         "Flutter Packages",
         "Dart",
-        "Firebase",
+        "FCM",
         "Getx",
         "ZegoCloud",
+        "Back4app",
       ],
       description: "Developed a mobile application using Flutter and Dart to create an efficient and user-friendly chat app, inspired by WhatsApp. The app enables users to send messages and make calls, including both voice and video calls, powered by the ZEGOCLOUD SDK. Used Back4App (Parse Server) for the backend to handle data and enable real-time communication smoothly.",
       logo: ConsultlyLogo,
@@ -148,7 +155,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Upwork Project",
-      techStack: ["MVC", "Dart","Getx"],
+      techStack: ["MVC", "Dart","Getx","Back4app"],
       description:
         "Received a project on Upwork to implement a like/unlike feature in a chat app. I integrated the functionality so users could like or unlike messages. Additionally, when a user likes a message, a notification is sent to the person whose message was liked. A total like counter is also displayed for each message.",
       logo: BarepapersLogo,
@@ -171,7 +178,7 @@ export const RESUME_DATA = {
       logo: ParabolLogo,
      link: {
         label: "github.com",
-        href: "https://parabol.co/",
+        href: "https://github.com/mohammadmaarij",
       },
     },
   
