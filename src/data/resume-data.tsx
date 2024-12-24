@@ -78,7 +78,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Intern Flutter Developer",
       logo: ClevertechLogo,
-      start: "Oct 2023",
+      start: "Oct 2024",
       end: "Present",
       description:
         "I've really dived into the basics of Flutter, like making sure apps look good on any device, hooking them up to Firebase for storing data, and connecting them with APIs for extra features. I've also wrapped up projects where I've made sure the code is neat and tidy, easy for others to understand and maintain. I'm excited to bring these skills to the table in any professional setting.",
