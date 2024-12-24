@@ -127,7 +127,7 @@ export const RESUME_DATA = {
       title: "Twitter Redesign",
       techStack: ["Side Project", "Dart", "Getx", "Front-end"],
       description:
-        "Executed a comprehensive redesign of the Twitter Mobile app using Dart and Getx state management, focusing on improving user interface (UI) and user experience (UX) while maintaining key functionalities",
+        "Executed a comprehensive redesign of the Twitter mobile app using Dart and GetX state management, focusing on improving the user interface (UI) and user experience (UX) while maintaining key functionalities. Users can also add tweets, retweet, comment on tweets, and reply to comments, implemented using Firebase and GetX for state management.",
       logo: JarockiMeLogo,
      /* link: {
         label: "github.com",
